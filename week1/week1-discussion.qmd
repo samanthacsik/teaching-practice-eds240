@@ -1,6 +1,0 @@
----
-title: "Week 1 Discussion"
-subtitle: "Data Wrangling Review"
-author: "Sam Csik"
-date: 2025-01-07
----
